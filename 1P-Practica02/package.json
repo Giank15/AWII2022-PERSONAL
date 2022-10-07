@@ -1,7 +1,7 @@
 {
-  "type": "module",
-  "name": "1p-practica01",
+  "name": "1p-practica02",
   "version": "1.0.0",
+  "description": "",
   "main": "cliente.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "type": "module"
 }
