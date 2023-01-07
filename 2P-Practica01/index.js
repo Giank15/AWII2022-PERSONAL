@@ -4,6 +4,7 @@
 //npm i cors
 //npm i nodemon -D
 //npm i mongoose
+//npm install dotenv
 
 require('dotenv').config();
 const Server = require('./server');
